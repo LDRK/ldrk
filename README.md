@@ -16,7 +16,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 #Estudiante de Ingeniería de Sistemas
+🎓Estudiante de Ingeniería de Sistemas
 
   Actualmente formándome en el apasionante mundo de la tecnología y el desarrollo de software.
 
