@@ -17,7 +17,8 @@
 
 <p align="left">
 🎓 **Estudiante de Ingeniería de Sistemas**  
-Actualmente formándome en el apasionante mundo de la tecnología y el desarrollo de software.
+
+  Actualmente formándome en el apasionante mundo de la tecnología y el desarrollo de software.
 
 🛠️ **Roles actuales:**  
 - Desarrollador en formación  
