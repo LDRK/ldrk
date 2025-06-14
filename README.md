@@ -43,7 +43,7 @@ Estoy abierto a colaboraciones, proyectos freelance, ideas innovadoras o simplem
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,css,html,js,mysql,sqlite,git,github,materialui,postman,vscode,bash,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=php,py,css,html,js,mysql,sqlite,git,github,postman,vscode,bash,linux&perline=12" />
   </a>
 </p>
 <br>
